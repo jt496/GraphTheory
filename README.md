@@ -1,1 +1,1 @@
-##Introduction to Lean Formalization in Graph Theory
+## Introduction to Lean Formalization in Graph Theory
